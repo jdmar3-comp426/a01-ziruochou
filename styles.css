@@ -1,0 +1,22 @@
+body {
+    background: lightblue;
+}
+
+img {
+    width: 20%;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.back {
+    font-size: 25pt;
+
+    /* This gets rid of the underline in an <a> element */
+    text-decoration: none;
+}
