@@ -1,19 +1,29 @@
 body {
-    background: lightblue;
+    background: #6495de;
 }
 
 img {
-    width: 20%;
+    width: 90%;
 }
 
 h1 {
+    font-family:'Times New Roman', Times, serif;
     color: white;
+    font-size: 60px;
 }
 
 p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    border-style: solid;
+    border-color: rgb(70, 118, 180);
 }
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+
+}
+
 .back {
     font-size: 25pt;
 
