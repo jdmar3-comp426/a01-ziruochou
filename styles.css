@@ -39,7 +39,7 @@ p.content::before{
     background-color: darkcyan;
 }
 
-div.hover p{
+div:hover p{
     background-color: darkcyan;
 }
 
