@@ -28,6 +28,10 @@ h2 {
     text-align: center;
 }
 
+a.highlight.hover{
+    color: chocolate;
+}
+
 .back {
     font-size: 25pt;
 
