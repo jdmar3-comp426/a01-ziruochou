@@ -1,0 +1,51 @@
+body {
+    background: #6495de;
+}
+
+img {
+    width: 90%;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+    border-style: solid;
+    border-color: rgb(70, 118, 180);
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#para1{
+    text-align: center;
+}
+
+a.highlight.hover{
+    color: chocolate;
+}
+p.content::before{
+    background-color: darkcyan;
+}
+
+div:hover p{
+    background-color: darkcyan;
+}
+
+.back {
+    font-size: 25pt;
+
+    /* This gets rid of the underline in an <a> element */
+    text-decoration: none;
+}
