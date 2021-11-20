@@ -32,6 +32,10 @@ a.highlight.hover{
     color: chocolate;
 }
 
+div.hover{
+    background-color: darkcyan;
+}
+
 .back {
     font-size: 25pt;
 
